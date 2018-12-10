@@ -1,0 +1,32 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+nav {
+	width: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	display: block;
+	text-align: center;
+	font
+}
+
+.menu{
+	padding-top: 15%;
+	padding-bottom: 15%;
+	border-radius: 2px;
+	box-shadow: 6px 6px 18px #555;
+   	transition: 1s;
+}
+.menu:hover{ 
+	transform: translate(0px, -30px);
+	background-color: rgba(255,255,255,0.3);
+}
+
+body{
+	background-image: url(../img/newwallpaper.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
