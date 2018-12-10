@@ -1,0 +1,53 @@
+header{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 8%;
+	font-size: 30px;
+	color: white;
+}
+body{
+	background-image: url(../img/newwallpaper.jpg);
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+div{
+	font-size: 45px;
+	border-radius: 2px;
+	box-shadow: 6px 6px 18px #555;
+   	width:28%;
+   	height:200px;
+   	float: left;
+   	text-align: center;
+   	vertical-align: 150px;
+   	transition: 1s;
+   	margin: 0 1%;
+   	font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+nav{
+	margin-top: 7%;
+	margin-left: 10%;
+}
+
+div:hover{ 
+	transform: translate(0px, -30px);
+	background-color: rgba(255,255,255,0.3);
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+}
+
+@media all and (max-width: 480px){
+	div{
+		float: none;
+	}
+}
