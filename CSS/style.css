@@ -1,0 +1,7 @@
+.Annonceur{
+	text-align: center;
+}
+
+#annonceur-de-page{
+	$breadcrumb-divider: quote(">");
+}
