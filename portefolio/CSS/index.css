@@ -12,6 +12,13 @@ nav {
 	font
 }
 
+#menu{
+	border-radius: 5px;
+	border-style: solid;
+	border-color: white;
+   	transition: 1s;
+}
+
 .menu{
 	padding-top: 15%;
 	padding-bottom: 15%;
