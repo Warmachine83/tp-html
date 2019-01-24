@@ -1,0 +1,63 @@
+body{
+	background-color: #FBFBFB;
+}
+
+#menu{
+	background-color: #FFDEDE;
+	border-radius: 5px;
+	position: relative;
+	z-index: 1;
+}
+
+.txtmenu{
+	color: #FA8602;
+}
+
+#photos{
+	position: relative;
+	margin-top: -40px;
+}
+
+.card{
+	background-color: #FFDEDE;
+	color: #FA8602;
+	margin-top: 5%;
+	width: 100%;
+}
+
+#top{
+	margin-top: 3%;
+}
+
+#sigle{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%
+}
+
+#desc{
+	background-color: #424242;
+	color: #FA8602;
+	padding: 3% 3% 3% 3%;
+	border-radius: 5px;
+	margin-top: 5%;
+}
+
+aside{
+	float: right;
+	font-size: 3em;
+	font-family: 'Major Mono Display', monospace;
+}
+
+.card-text{
+	font-family: 'Major Mono Display', monospace;
+}
+
+.nav-item{
+	font-family: 'Major Mono Display', monospace;
+}
+
+h1{
+	font-family: 'Major Mono Display', monospace;
+}
